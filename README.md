@@ -11,3 +11,8 @@ tienda.
  No se realiza validación, ni se verifica calidad en los datos ingresados.
 # Historia del usuario
 ![Captura de pantalla 2023-05-15 150041](https://github.com/lorenalop20/tienda_ropa/assets/133611678/153d5a0f-4b4f-4395-937e-420278efa21c)
+# pseudocódigo
+![Captura de pantalla 2023-05-15 151317](https://github.com/lorenalop20/tienda_ropa/assets/133611678/e868600a-19cc-42f2-b0e3-306155643fbd)
+![Captura de pantalla 2023-05-15 151353](https://github.com/lorenalop20/tienda_ropa/assets/133611678/95403514-55d3-4802-93b2-6e8d66acd16f)
+![Captura de pantalla 2023-05-15 151429](https://github.com/lorenalop20/tienda_ropa/assets/133611678/36386b29-960b-41c5-94dd-33f970c8c143)
+![Captura de pantalla 2023-05-15 151504](https://github.com/lorenalop20/tienda_ropa/assets/133611678/d3e514fe-9ee2-4aa4-8e2f-6c2f3efc61c3)
