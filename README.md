@@ -18,6 +18,11 @@ tienda.
 <br>
 ![Captura de pantalla 2023-05-15 151429](https://github.com/lorenalop20/tienda_ropa/assets/133611678/36386b29-960b-41c5-94dd-33f970c8c143)
 <br> #Diagrama de flujo <br>
-![Captura de pantalla 2023-05-15 151504](https://github.com/lorenalop20/tienda_ropa/assets/133611678/d3e514fe-9ee2-4aa4-8e2f-6c2f3efc61c3)
+![image](https://github.com/lorenalop20/tienda_ropa/assets/133611678/8306c82a-6068-44e3-940e-1530ecc0eb81)
+![image](https://github.com/lorenalop20/tienda_ropa/assets/133611678/77f61ae9-fc43-4e0e-a239-38152b9f6b9c)
+![image](https://github.com/lorenalop20/tienda_ropa/assets/133611678/73a70a2a-4db2-4fb3-abc4-1a73270ded06)
+![image](https://github.com/lorenalop20/tienda_ropa/assets/133611678/05e899c0-a1d7-4226-9460-be6a5edc7696)
+![image](https://github.com/lorenalop20/tienda_ropa/assets/133611678/45dba24d-5d9b-41e5-a346-7f81e5c68172)
+
 <br># Diagrama de caso <br> 
 ![Captura de pantalla 2023-05-14 211532](https://github.com/lorenalop20/tienda_ropa/assets/133611678/e23a125a-4186-429c-b4d3-f6556b50621f)
