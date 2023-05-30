@@ -19,5 +19,5 @@ tienda.
 ![Captura de pantalla 2023-05-15 151429](https://github.com/lorenalop20/tienda_ropa/assets/133611678/36386b29-960b-41c5-94dd-33f970c8c143)
 <br>
 ![Captura de pantalla 2023-05-15 151504](https://github.com/lorenalop20/tienda_ropa/assets/133611678/d3e514fe-9ee2-4aa4-8e2f-6c2f3efc61c3)
-<br>
+<br> #Diagrama de caso
 ![Captura de pantalla 2023-05-14 211532](https://github.com/lorenalop20/tienda_ropa/assets/133611678/e23a125a-4186-429c-b4d3-f6556b50621f)
